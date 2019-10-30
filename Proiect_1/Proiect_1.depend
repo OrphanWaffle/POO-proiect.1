@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1572456184 source:e:\anul 2\poo\proiect_1\main.cpp
+	<iostream>
+	"Complex.h"
+	<utility>
+
+1572292808 e:\anul 2\poo\proiect_1\complex.h
+	<iostream>
+
+1572292815 source:e:\anul 2\poo\proiect_1\obiect.cpp
+	"Complex.h"
+	<math.h>
+
